@@ -4,13 +4,13 @@ This is a fork of Abraham's project, Houdini, but this has a completely dark UI,
 
 I hope you enjoy this!
 
-IPA can be found here-
+IPA can be found here *soon*
 
 # Houdini (iOS 11-11.1.2)
 
 by @cheesecakeufo and @lepidusdev - exploits by (@i4nbeer)
 
-[Download here](https://kooz123.github.io/houdini-public/)
+[Download here](https://goo.gl/k5vEUJ)
 
 # How do I install this?
 You probably should just just go [here](https://kooz123.github.io/houdini-public/) and follow the instructions.
