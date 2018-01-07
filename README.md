@@ -10,7 +10,10 @@ IPA can be found here *soon*
 
 by @cheesecakeufo and @lepidusdev - exploits by (@i4nbeer)
 
-[Download here](https://goo.gl/k5vEUJ)
+# Direct Project Download
+[Download here](https://goo.gl/17GYnZ)
+
+this'll soon be replaced with an IPA link, but for now it's the project.
 
 # Is this a full jailbreak?
 Nope. Once you run it, Cydia will NOT be installed.
