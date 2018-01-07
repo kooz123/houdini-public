@@ -12,9 +12,6 @@ by @cheesecakeufo and @lepidusdev - exploits by (@i4nbeer)
 
 [Download here](https://goo.gl/k5vEUJ)
 
-# How do I install this?
-You probably should just just go [here](https://kooz123.github.io/houdini-public/) and follow the instructions.
-
 # Is this a full jailbreak?
 Nope. Once you run it, Cydia will NOT be installed.
 
