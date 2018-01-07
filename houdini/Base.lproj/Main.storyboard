@@ -46,8 +46,8 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="3Eb-um-lyn">
                                         <rect key="frame" x="81" y="0.0" width="224" height="50"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dark Houdini beta 2" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="f5C-9d-XPe">
-                                                <rect key="frame" x="0.0" y="0.0" width="224" height="33.5"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dark Houdini" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="f5C-9d-XPe">
+                                                <rect key="frame" x="0.0" y="0.0" width="152.5" height="33.5"/>
                                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="28"/>
                                                 <color key="textColor" white="1" alpha="0.54832757539999999" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>

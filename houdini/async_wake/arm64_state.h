@@ -1,5 +1,6 @@
 #ifndef arm64_state_h
 #define arm64_state_h
+#include <sys/signal.h>
 
 /*
  * GPR context
